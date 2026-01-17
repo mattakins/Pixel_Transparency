@@ -1,15 +1,6 @@
- ____  _          _
-|  _ \(_)_  _____| |
-| |_) | \ \/ / _ \ |
-|  __/| |>  <  __/ |
-|_|___|_/_/\_\___|_|
-|_   _| __ __ _ _ __  ___ _ __   __ _ _ __ ___ _ __   ___ _   _
-  | || '__/ _` | '_ \/ __| '_ \ / _` | '__/ _ \ '_ \ / __| | | |
-  | || | | (_| | | | \__ \ |_) | (_| | | |  __/ | | | (__| |_| |
-  |_||_|  \__,_|_| |_|___/ .__/ \__,_|_|  \___|_| |_|\___|\__, |
-                         |_|                              |___/
-   v1.1 by mattakins
-   Copyright (C) 2025 Matt Akins.
+# Pixel Transparency Shader for RetroArch
+v1.1 by mattakins
+Copyright (C) 2025 Matt Akins.
 
 Grid shaders look great on Game Boy Color games - except for one glaring issue.
 

@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Logos/Pixel%20Transparency%20Logo%20-%20White.png">
+    <source media="(prefers-color-scheme: light)" srcset="Logos/Pixel%20Transparency%20Logo%20-%20Black.png">
+    <img src="Logos/Pixel%20Transparency%20Logo%20-%20Grey.png" alt="Pixel Transparency" width="200">
+  </picture>
+</p>
+
 <img width="2240" height="1008" alt="image (28)" src="https://github.com/user-attachments/assets/226d963a-0a63-4959-a64f-4f16d45d55f4" />
 
 # Pixel Transparency Shader for RetroArch – Sunlight Shimmer Edition

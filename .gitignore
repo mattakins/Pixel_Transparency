@@ -1,3 +1,7 @@
 
 # Release archives built from the shader trees
 /*.zip
+
+# Local design exploration and macOS metadata
+/design/
+.DS_Store

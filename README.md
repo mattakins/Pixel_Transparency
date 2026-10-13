@@ -6,10 +6,10 @@
   </picture>
 </p>
 
-<img width="2240" height="1008" alt="image (28)" src="https://github.com/user-attachments/assets/226d963a-0a63-4959-a64f-4f16d45d55f4" />
-
 # Pixel Transparency Shader for RetroArch – Sunlight Shimmer Edition
 _v2.0 by mattakins – Copyright (C) 2025 Matt Akins._
+
+<img width="2240" height="1008" alt="image (28)" src="https://github.com/user-attachments/assets/226d963a-0a63-4959-a64f-4f16d45d55f4" />
 
 Grid shaders look great on Game Boy Color games - except for one glaring issue.
 

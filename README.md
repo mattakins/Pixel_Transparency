@@ -7,7 +7,7 @@
 </p>
 
 # Pixel Transparency for RetroArch
-_v3.0 (Slang) by mattakins · Copyright (C) 2025–2026 Matt Akins._
+_v3.0 by mattakins · Copyright (C) 2025–2026 Matt Akins._
 
 <img width="2240" height="1008" alt="image (28)" src="https://github.com/user-attachments/assets/226d963a-0a63-4959-a64f-4f16d45d55f4" />
 

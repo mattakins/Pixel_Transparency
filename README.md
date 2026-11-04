@@ -15,6 +15,8 @@ Pixel Transparency recreates the reflective look of a Game Boy Color LCD. Bright
 
 **Sunlight Shimmer** adds moving glare and rainbow shimmer. Motion follows device tilt when supported by the device and RetroArch build; lighting and shadows also have manual controls.
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'W7W51SGAZ2');kofiwidget2.draw();</script> 
+
 ## What’s new in v3.0
 
 - LCD grids are integrated into the shader pipeline.

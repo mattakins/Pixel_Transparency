@@ -15,7 +15,7 @@ Pixel Transparency recreates the reflective look of a Game Boy Color LCD. Bright
 
 **Sunlight Shimmer** adds moving glare and rainbow shimmer. Motion follows device tilt when supported by the device and RetroArch build; lighting and shadows also have manual controls.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'W7W51SGAZ2');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/W7W51SGAZ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## What’s new in v3.0
 

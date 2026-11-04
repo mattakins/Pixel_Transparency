@@ -1,5 +1,1 @@
-shaders = 1
-
-shader0 = shaders/pixel_transparency/sunlight_shimmer.slang
-filter_linear0 = false
-scale_type0 = viewport
+#reference "../presets/pixel_transparency/sunlight_shimmer-authentic_gbc_fast.slangp"
